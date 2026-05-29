@@ -1,0 +1,6 @@
+Large language models (LLMs) are neural networks trained on massive text datasets. 
+They learn to predict the next token in a sequence, which enables them to generate coherent text, answer questions, and follow instructions. 
+Popular LLMs include GPT-4, Gemini, and Claude. 
+LLMs are trained using a transformer architecture, which uses attention mechanisms to weigh the importance of different words in context. 
+Fine-tuning allows a pre-trained LLM to specialize in a specific domain by training further on targeted data. Prompt engineering is the practice of crafting inputs to guide LLM outputs without changing model weights. 
+Retrieval-augmented generation (RAG) combines LLMs with external knowledge bases to reduce hallucinations and improve factual accuracy.
