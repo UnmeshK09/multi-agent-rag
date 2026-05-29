@@ -42,7 +42,7 @@ Eval Pipeline — scores keyword coverage, source accuracy, and latency
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-agent-rag
+git clone https://github.com/UnmeshK09/multi-agent-rag
 cd multi-agent-rag
 python -m venv venv
 venv\Scripts\activate  # Windows
